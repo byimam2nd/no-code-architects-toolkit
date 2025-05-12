@@ -1,7 +1,8 @@
 saya telah build image ke ghcr.io
 
 ```bash
-podman pull ghcr.io/byimam2nd/nca-toolkit:latest```
+podman pull ghcr.io/byimam2nd/nca-toolkit:latest
+```
 
 ![Original Logo Symbol](https://github.com/user-attachments/assets/75173cf4-2502-4710-998b-6b81740ae1bd)
 
